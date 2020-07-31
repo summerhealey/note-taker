@@ -1,0 +1,27 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Express application that allows users to create, save, and delete notes. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summerhealey/note-taker.git"
+  },
+  "keywords": [
+    "note-taker",
+    "note",
+    "taker",
+    "note",
+    "express",
+    "heroku"
+  ],
+  "author": "Summer Healey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summerhealey/note-taker/issues"
+  },
+  "homepage": "https://github.com/summerhealey/note-taker#readme"
+}
