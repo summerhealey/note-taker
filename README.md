@@ -50,9 +50,9 @@ Client Demo:
 ![Client Demo Notes](./public/assets/images/clientDemoNotes.jpg)
 
 Application Demo: 
-![Deployed Application Screenshot of Homepage](./public/assets/images/noteTakerIndex.jpg)
+![Deployed Application Screenshot of Homepage](./public/assets/images/noteTakerDemoIndex.jpg)
 
-![Deployed Application Screenshot of Notes Page](./public/assets/images/noteTakerNotes.jpg)
+![Deployed Application Screenshot of Notes Page](./public/assets/images/noteTakerDemoNotes.jpg)
 
 Video Demo:
 ![Video Demonstration of Application](https://drive.google.com/file/d/134EhQrcPreOfUfI1tB_z0nuBCAC_ZnFH/view)
