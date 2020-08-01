@@ -55,7 +55,7 @@ Application Demo:
 ![Deployed Application Screenshot of Notes Page](./public/assets/images/noteTakerDemoNotes.jpg)
 
 Video Demo:
-![Video Demonstration of Application](https://drive.google.com/file/d/134EhQrcPreOfUfI1tB_z0nuBCAC_ZnFH/view)
+![Video Demonstration of Application](https://drive.google.com/file/d/134EhQrcPreOfUfI1tB_z0nuBCAC_ZnFH/view?usp=sharing)
 
 GitHub Repository: https://github.com/summerhealey/note-taker/
 
