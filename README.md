@@ -45,14 +45,14 @@ The following animation demonstrates the client's request for application functi
 
 Client Demo:
 
-![Client Demo Index](./assets/images/clientDemoIndex.jpg)
+![Client Demo Index](./public/assets/images/clientDemoIndex.jpg)
 
-![Client Demo Notes](./assets/images/clientDemoNotes.jpg)
+![Client Demo Notes](./public/assets/images/clientDemoNotes.jpg)
 
 Application Demo: 
-![Deployed Application Screenshot of Homepage](./assets/images/noteTakerIndex.jpg)
+![Deployed Application Screenshot of Homepage](./public/assets/images/noteTakerIndex.jpg)
 
-![Deployed Application Screenshot of Notes Page](./assets/images/noteTakerNotes.jpg)
+![Deployed Application Screenshot of Notes Page](./public/assets/images/noteTakerNotes.jpg)
 
 Video Demo:
 ![Video Demonstration of Application](https://drive.google.com/file/d/134EhQrcPreOfUfI1tB_z0nuBCAC_ZnFH/view)
