@@ -7,7 +7,7 @@ This is a a [Heroku](../04-Supplemental/HerokuGuide.md) deployed Express.js appl
 
 ```
 
-
+node server.js
 
 ```
 
@@ -45,17 +45,21 @@ The following animation demonstrates the client's request for application functi
 
 Client Demo:
 
-![Note Taker Demo](./assets/images/10-OOP-homework-demo-1.png)
+![Client Demo Index](./assets/images/clientDemoIndex.jpg)
+
+![Client Demo Notes](./assets/images/clientDemoNotes.jpg)
 
 Application Demo: 
-![Deployed Application Screenshot](./assets/images/noteTaker.jpg)
+![Deployed Application Screenshot of Homepage](./assets/images/noteTakerIndex.jpg)
+
+![Deployed Application Screenshot of Notes Page](./assets/images/noteTakerNotes.jpg)
 
 Video Demo:
-![Video Demonstration of Application](https://drive.google.com/)
+![Video Demonstration of Application](https://drive.google.com/file/d/134EhQrcPreOfUfI1tB_z0nuBCAC_ZnFH/view)
 
 GitHub Repository: https://github.com/summerhealey/note-taker/
 
-Heroku URL: 
+Heroku URL: https://afternoon-refuge-90666.herokuapp.com/ 
 
 # Criteria Determination: 
 
